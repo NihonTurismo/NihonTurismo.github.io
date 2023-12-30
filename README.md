@@ -1,5 +1,4 @@
-## v2.0  
-**12/30/2023**
+## v2.0 *- 12/30/23*
 
 * Initial public release.
 * Please read included README.pdf and Content Manager track description.
