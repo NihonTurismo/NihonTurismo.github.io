@@ -16,6 +16,11 @@ a {
   color: #597a7a
 }
 
+a:hover, a:focus {
+  color: #597a7a
+  font-weight: bold;
+}
+
 hr {
-  color: #f5821f
+  background: #f5821f
 }
