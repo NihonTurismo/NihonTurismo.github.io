@@ -48,3 +48,11 @@ header,footer,section {
   width:600px;
   margin:0 auto;
 }
+
+header::before {
+	content: url("/assets/images/nihonturismo.svg");
+	display: inline-block;
+	position: relative;
+	width: 37px;
+	top: 5px;
+}
