@@ -38,10 +38,11 @@ small {
 }
 
 header,footer,section {
-  width:auto;
-  float:none;
-  position:static;
-  -webkit-font-smoothing:subpixel-antialiased;
+	width:auto;
+	float:none;
+	position:static;
+	padding:0px;
+	-webkit-font-smoothing:subpixel-antialiased;
 }
 
 .wrapper {
