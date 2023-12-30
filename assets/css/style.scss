@@ -60,10 +60,6 @@ header,footer,section {
 	}
 }
 
-header::before {
-	content: url("/assets/images/nihonturismo.svg");
-	display: inline-block;
-	position: relative;
-	width: 100%;
-	top:0px;
+img {
+	padding-bottom:50px;
 }
