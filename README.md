@@ -6,4 +6,5 @@
 * Please read included README.pdf and Content Manager track description.
 * Includes *EXTRAS* folder with fuctional AI splines and example configuration files for AssettoServer servers.
 
-🔗 [nihon_turismo_020.7z](http://www.mega.nl/1)
+🔗 Mega [nihon_turismo_020.7z](http://www.mega.nl/1)
+🔗 Google Drive [nihon_turismo_020.7z](http://www.mega.nl/1)
