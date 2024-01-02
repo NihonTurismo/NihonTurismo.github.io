@@ -10,7 +10,7 @@
 
 **Extract manually to Assetto root folder, after full 2.0 release below.**
 
-🔗 [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/1tqpWqBwoeqwn1CeAVHoZcmtSS1cMv1Ol/view?usp=sharing)
+🔗 [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/1nbR9tqZ-81rQlQ7EEFwD3Cp-OfKMXwPb/view?usp=sharing)
 
 ## v2.0  
 
