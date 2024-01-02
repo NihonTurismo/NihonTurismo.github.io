@@ -4,7 +4,7 @@
 
 *01/01/24*
 
-Fixes a few overlapping mesh and texture issues.
+Fixes a few overlapping mesh and texture issues. Shouldn't affect online compatibility. 
 
 **Extract manually to Assetto root folder, after full 2.0 release below.**
 
