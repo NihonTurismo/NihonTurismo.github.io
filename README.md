@@ -8,7 +8,7 @@ Fixes a few overlapping mesh and texture issues. Shouldn't affect online compati
 
 **Extract manually to Assetto root folder, after full 2.0 release below.**
 
-🔗 [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/19TXdfHlNAuYrANiqn2XXeNhbzQga0wOP/view?usp=sharing)
+🔗 [nihon_turismo_021_hotfix.7z]()
 
 ## v2.0  
 
