@@ -1,5 +1,15 @@
 {% include youtube.html id="V3jng03abW8" %}
 
+## v2.1 Hotfix
+
+*01/01/24*
+
+Fixes a few overlapping mesh and texture issues.
+
+**Install manually to Assetto root folder, after full 2.0 release below.**
+
+🔗 Download - [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/19TXdfHlNAuYrANiqn2XXeNhbzQga0wOP/view?usp=sharing)
+
 ## v2.0  
 
 *12/30/23*
