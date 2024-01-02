@@ -8,7 +8,7 @@
 * Mini-map graphic should no longer be incorrectly offset for *Countryside Pits* layout.
 * Shouldn't affect online compatibility.
 
-**Extract manually to Assetto root folder, after full 2.0 release below.**
+**Extract manually to Assetto root folder, after installing full 2.0 release below.**
 
 🔗 [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/1nbR9tqZ-81rQlQ7EEFwD3Cp-OfKMXwPb/view?usp=sharing)
 
