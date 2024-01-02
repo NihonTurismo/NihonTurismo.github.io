@@ -4,7 +4,9 @@
 
 *01/01/24*
 
-Fixes a few overlapping mesh and texture issues. Shouldn't affect online compatibility. 
+* Fixes a few overlapping mesh and texture issues.
+* Mini-map graphic should no longer be incorrectly offset for *Countryside Pits* layout.
+* Shouldn't affect online compatibility.
 
 **Extract manually to Assetto root folder, after full 2.0 release below.**
 
