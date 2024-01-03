@@ -10,7 +10,8 @@
 
 **Extract manually to Assetto root folder, after installing full 2.0 release below.**
 
-🔗 [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/1nbR9tqZ-81rQlQ7EEFwD3Cp-OfKMXwPb/view?usp=sharing)
+🔗 Mega - [nihon_turismo_021_hotfix.7z](https://mega.nz/file/ASl31R7D#rSUp-LIBQZ99M6rfNvTahCJ76aa-AtZ7u0jFleEa8Qk)
+🔗 Drive - [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/1nbR9tqZ-81rQlQ7EEFwD3Cp-OfKMXwPb/view?usp=sharing)
 
 ## v2.0  
 
