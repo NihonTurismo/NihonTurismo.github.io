@@ -6,12 +6,13 @@
 
 * Fixes a few overlapping mesh and texture issues.
 * Mini-map graphic should no longer be incorrectly offset for *Countryside Pits* layout.
+* Revised CM track description.
 * Shouldn't affect online compatibility.
 
 **Extract manually to Assetto root folder, after installing full 2.0 release below.**
 
-🔗 Mega - [nihon_turismo_021_hotfix.7z](https://mega.nz/file/ASl31R7D#rSUp-LIBQZ99M6rfNvTahCJ76aa-AtZ7u0jFleEa8Qk)  
-🔗 Drive - [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/1nbR9tqZ-81rQlQ7EEFwD3Cp-OfKMXwPb/view?usp=sharing)
+🔗 Mega - [nihon_turismo_021_hotfix.7z](https://mega.nz/file/YX1nzCbC#5szWx-EaCjIKqars22Iqb5o2B-ZA0T6mJdjlLefgaco)  
+🔗 Drive - [nihon_turismo_021_hotfix.7z](https://drive.google.com/file/d/14QPGKqA0mJsK51y5Um_miZk1J7h8jfnu/view?usp=sharing)
 
 ## v2.0  
 
